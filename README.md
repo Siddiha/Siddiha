@@ -2,10 +2,9 @@
 
 I'm [Siddiha](https://siddiha.vercel.app/), a Computer Science Student and an artist who loves to draw.
 
-
 I'm fascinated by large-scale, high-impact products and  I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
-Outside of work, I'm interested in following the developments of science,   make [art](https://polyliths.tumblr.com/), play Netball.
+Outside of work, I'm interested in following the developments of science and play Netball.
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@fathimasiddika62)
