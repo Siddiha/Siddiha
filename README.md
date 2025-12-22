@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Siddiha **](https://siddiha.vercel.app/), a Computer Science Student and artist who loves to draw.
+I'm [Siddiha](https://siddiha.vercel.app/), a Computer Science Student and artist who loves to draw.
 
 
 I'm fascinated by large-scale, high-impact products and  I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
