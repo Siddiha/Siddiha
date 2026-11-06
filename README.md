@@ -4,7 +4,7 @@ I'm [Siddiha](https://siddiha.vercel.app/), a Computer Science Student and an ar
 
 I'm fascinated by large-scale, high-impact products and  I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic Systems overtime.
 
-Outside of work, I'm interested in following the developments of science and play Netball !!
+Outside of work, I'm interested in following the developments of science and play Netball !
 
 #### Let's connect!
 [<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:fathimasiddika62@gmail.com)
